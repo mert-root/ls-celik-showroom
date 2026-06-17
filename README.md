@@ -73,7 +73,7 @@
 
 ## 📜 Lisans
 
-© 2025 LS Çelik - Tüm Hakları Saklıdır.
+© 2026 LS Çelik - Tüm Hakları Saklıdır.
 
 ---
 
