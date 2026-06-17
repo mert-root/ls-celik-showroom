@@ -64,14 +64,11 @@ Tasarımdan kodlamaya, tüm içerik ve görsel düzenlemelere kadar her şey ban
 
 ---
 
-## 📞 Firma İletişim
+## 📞  Geliştirici İletişim
 
 | | |
 |---|---|
-| **Adres** | Dudullu Osb Mah. Des 117 Sk. C27 Blok No:2 Ümraniye / İstanbul |
-| **Telefon** | 0216 206 04 80 - 0546 260 68 82 |
-| **E-posta** | info@lscelik.com |
-| **Web** | [lscelik.com](https://lscelik.com) |
+| **E-posta** | mertdmrc.is@gmail.com |
 
 ---
 
