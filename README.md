@@ -40,8 +40,6 @@
 | JavaScript   | -           | AOS Animasyon |
 | Responsive Tasarım | - | Boxicons |
 
-</div>
-
 ---
 
 ## 📱 Öne Çıkan Özellikler
