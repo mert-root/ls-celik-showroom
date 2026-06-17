@@ -17,8 +17,9 @@ Tasarımdan kodlamaya, tüm içerik ve görsel düzenlemelere kadar her şey ban
 
 ---
 
-## 🔗 Canlı Site
+## 🔗 Canlı Site 
 👉 **[lscelik.com](https://lscelik.com)**
+> 30 yılı aşkın sektör tecrübesi ile çelik sektöründe kalite, güven ve hızlı teslimatın adresi.
 
 ---
 
