@@ -3,10 +3,6 @@
 [![Website](https://img.shields.io/badge/Website-lscelik.com-blue?style=for-the-badge&logo=google-chrome)](https://lscelik.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Showroom-black?style=for-the-badge&logo=github)]()
 
-> **Gelecek Çelikten Gelir**  
-> 30 yılı aşkın sektör tecrübesi ile çelik sektöründe kalite, güven ve hızlı teslimatın adresi.
->
-> ---
 
 ## ©️ Telif Hakkı / Eser Sahibi
 
