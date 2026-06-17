@@ -1,39 +1,88 @@
-# ls-celik-showroom
-LS Çelik Kurumsal Web Sitesi Showroom - 30 yıllık tecrübe ile çelik sektöründe kalite ve güven. Ağırlık hesaplama aracı, blog, iletişim formu ve daha fazlası.
-
 # LS Çelik Showroom
 
-🏭 **LS Çelik** - 30 yılı aşkın tecrübe ile çelik sektöründe kalite ve güven.
+[![Website](https://img.shields.io/badge/Website-lscelik.com-blue?style=for-the-badge&logo=google-chrome)](https://lscelik.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Showroom-black?style=for-the-badge&logo=github)]()
+
+> **Gelecek Çelikten Gelir**  
+> 30 yılı aşkın sektör tecrübesi ile çelik sektöründe kalite, güven ve hızlı teslimatın adresi.
 
 ---
 
 ## 🔗 Canlı Site
-
 👉 **[lscelik.com](https://lscelik.com)**
 
 ---
 
-## 📸 Site Görselleri
+## 🖼️ Site Görselleri
 
-| Ana Sayfa | Hakkımızda |
-|-----------|------------|
-| ![Ana Sayfa](https://lscelik.com/assets/img/ls/logo.png) | ![Hakkımızda](https://lscelik.com/assets/img/ls/lscelik1.png) |
+### 🏠 Ana Sayfa
+![Ana Sayfa](https://i.imgur.com/dvgJK9g.png)
+
+### 📖 Hakkımızda
+![Hakkımızda](https://i.imgur.com/WK8QzgV.png)
+
+### 📦 Ürünlerimiz
+![Ürünlerimiz](https://i.imgur.com/3ITEUbg.png)
+
+### ⚙️ Hizmetlerimiz
+![Hizmetlerimiz](https://i.imgur.com/7wJrwDL.png)
+
+### ⚖️ Ağırlık Hesaplama Aracı
+![Ağırlık Hesaplama](https://i.imgur.com/Cdxwbv7.png)
+
+### 📞 İletişim
+![İletişim](https://i.imgur.com/LTO7794.png)
 
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- HTML5 / CSS3 / JavaScript
-- PHP (Mail gönderimi)
-- SweetAlert
-- Google Maps API
-- AOS Animasyon
+<div align="center">
+
+| **Frontend** | **Backend** | **Diğer** |
+|--------------|-------------|-----------|
+| HTML5        | PHP         | SweetAlert|
+| CSS3         | -           | Google Maps API |
+| JavaScript   | -           | AOS Animasyon |
+| Responsive Tasarım | - | Boxicons |
+
+</div>
+
+---
+
+## 📱 Öne Çıkan Özellikler
+
+| Özellik | Açıklama |
+|---------|----------|
+| ⚖️ **Ağırlık Hesaplama** | 15+ ürün tipi, 12+ materyal seçeneği |
+| 📚 **Teknik Rehber** | Çelik sektörüne dair bilgiler |
+| 🌐 **Çoklu Dil** | TR/EN dil desteği |
+| 📬 **İletişim Formu** | AJAX + SweetAlert |
+| 📱 **Responsive** | Tüm cihazlara uyumlu |
 
 ---
 
 ## 📞 İletişim
 
-**Adres:** Dudullu Osb Mah. Des 117 Sk. C27 Blok No:2 Ümraniye / İstanbul  
-**Telefon:** 0216 206 04 80 - 0546 260 68 82  
-**E-posta:** info@lscelik.com  
-**Web:** [lscelik.com](https://lscelik.com)
+| | |
+|---|---|
+| **Adres** | Dudullu Osb Mah. Des 117 Sk. C27 Blok No:2 Ümraniye / İstanbul |
+| **Telefon** | 0216 206 04 80 - 0546 260 68 82 |
+| **E-posta** | info@lscelik.com |
+| **Web** | [lscelik.com](https://lscelik.com) |
+
+---
+
+## 🏷️ Etiketler
+
+`çelik` `sanayi` `kurumsal-website` `ağırlık-hesaplama` `blog` `iletişim` `responsive` `php` `javascript`
+
+---
+
+## 📜 Lisans
+
+© 2025 LS Çelik - Tüm Hakları Saklıdır.
+
+---
+
+*Bu repo, LS Çelik web sitesinin tanıtımı amacıyla oluşturulmuştur.*
