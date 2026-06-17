@@ -65,6 +65,18 @@
 
 ---
 
+## ©️ Telif Hakkı / Eser Sahibi
+
+**Bu web sitesi tamamen tarafımca tasarlanmış ve geliştirilmiştir.**  
+Tasarımdan kodlamaya, tüm içerik ve görsel düzenlemelere kadar her şey bana aittir.
+
+- **Tasarım & Geliştirme:** Mert D. 
+- **Hak Sahibi Firma Adı:** LS ÇELİK SAN. TİC. A.Ş.
+- **Tüm hakları saklıdır.**  
+- İzinsiz kopyalanması, dağıtılması veya ticari amaçla kullanılması yasaktır.
+
+---
+
 ## 🏷️ Etiketler
 
 `çelik` `sanayi` `kurumsal-website` `ağırlık-hesaplama` `blog` `iletişim` `responsive` `php` `javascript`
