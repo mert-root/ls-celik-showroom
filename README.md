@@ -15,23 +15,17 @@
 
 ## 🖼️ Site Görselleri
 
-### #1
-![Ana Sayfa](https://i.imgur.com/dvgJK9g.png)
+![1](https://i.imgur.com/dvgJK9g.png)
 
-### #2
-![Hakkımızda](https://i.imgur.com/WK8QzgV.png)
+![2](https://i.imgur.com/WK8QzgV.png)
 
-### #3
-![Ürünlerimiz](https://i.imgur.com/3ITEUbg.png)
+![3](https://i.imgur.com/3ITEUbg.png)
 
-### #4
-![Hizmetlerimiz](https://i.imgur.com/7wJrwDL.png)
+![4](https://i.imgur.com/7wJrwDL.png)
 
-### #5
-![Ağırlık Hesaplama](https://i.imgur.com/Cdxwbv7.png)
+![5](https://i.imgur.com/Cdxwbv7.png)
 
-### #6
-![İletişim](https://i.imgur.com/LTO7794.png)
+![6](https://i.imgur.com/LTO7794.png)
 
 ---
 
