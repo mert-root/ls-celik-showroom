@@ -15,22 +15,22 @@
 
 ## 🖼️ Site Görselleri
 
-### 🏠 Ana Sayfa
+### #1
 ![Ana Sayfa](https://i.imgur.com/dvgJK9g.png)
 
-### 📖 Hakkımızda
+### #2
 ![Hakkımızda](https://i.imgur.com/WK8QzgV.png)
 
-### 📦 Ürünlerimiz
+### #3
 ![Ürünlerimiz](https://i.imgur.com/3ITEUbg.png)
 
-### ⚙️ Hizmetlerimiz
+### #4
 ![Hizmetlerimiz](https://i.imgur.com/7wJrwDL.png)
 
-### ⚖️ Ağırlık Hesaplama Aracı
+### #5
 ![Ağırlık Hesaplama](https://i.imgur.com/Cdxwbv7.png)
 
-### 📞 İletişim
+### #6
 ![İletişim](https://i.imgur.com/LTO7794.png)
 
 ---
