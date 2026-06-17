@@ -58,13 +58,13 @@ Tasarımdan kodlamaya, tüm içerik ve görsel düzenlemelere kadar her şey ban
 |---------|----------|
 | ⚖️ **Ağırlık Hesaplama** | 15+ ürün tipi, 12+ materyal seçeneği |
 | 📚 **Teknik Rehber** | Çelik sektörüne dair bilgiler |
-| 🌐 **Çoklu Dil** | TR/EN dil desteği |
+| 🌐 **Çoklu Dil** | Header TR/EN dil desteği |
 | 📬 **İletişim Formu** | AJAX + SweetAlert |
 | 📱 **Responsive** | Tüm cihazlara uyumlu |
 
 ---
 
-## 📞 İletişim
+## 📞 Firma İletişim
 
 | | |
 |---|---|
