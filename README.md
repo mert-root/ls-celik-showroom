@@ -5,6 +5,19 @@
 
 > **Gelecek Çelikten Gelir**  
 > 30 yılı aşkın sektör tecrübesi ile çelik sektöründe kalite, güven ve hızlı teslimatın adresi.
+>
+> ---
+
+## ©️ Telif Hakkı / Eser Sahibi
+
+**Bu web sitesi tamamen tarafımca tasarlanmış ve geliştirilmiştir.**  
+Tasarımdan kodlamaya, tüm içerik ve görsel düzenlemelere kadar her şey bana aittir.
+
+- **Tasarım & Geliştirme:** Mert D. 
+- **Hak Sahibi Firma Adı:** LS ÇELİK SAN. TİC. A.Ş.
+- **Tüm hakları saklıdır.**  
+- İzinsiz kopyalanması, dağıtılması veya ticari amaçla kullanılması yasaktır.
+
 
 ---
 
@@ -62,18 +75,6 @@
 | **Telefon** | 0216 206 04 80 - 0546 260 68 82 |
 | **E-posta** | info@lscelik.com |
 | **Web** | [lscelik.com](https://lscelik.com) |
-
----
-
-## ©️ Telif Hakkı / Eser Sahibi
-
-**Bu web sitesi tamamen tarafımca tasarlanmış ve geliştirilmiştir.**  
-Tasarımdan kodlamaya, tüm içerik ve görsel düzenlemelere kadar her şey bana aittir.
-
-- **Tasarım & Geliştirme:** Mert D. 
-- **Hak Sahibi Firma Adı:** LS ÇELİK SAN. TİC. A.Ş.
-- **Tüm hakları saklıdır.**  
-- İzinsiz kopyalanması, dağıtılması veya ticari amaçla kullanılması yasaktır.
 
 ---
 
